@@ -1,0 +1,26 @@
+Q1: Take a number as an input from the user and check if it is divisible by both
+5 and 7.
+
+Q2: Create a simple ATM menu which takes the following user inputs:
+    1. Withdraw cash
+    2. Deposit cash
+If the user inputs '1', allow the user to enter an amount. Deduct the entered amount from the user's account balance.
+If the user inputs '2', again allow the user to enter an amount. Add the entered amount to the user's account balance.
+
+Initialize the user's account balance to 20000
+
+
+Q3: Check if the type of variable is int, float, or str.
+Start by declaring a variable which can be an integer, float, or string.
+Write an if else logic that checks the type of the variable.
+
+If it is an integer, print 'Integer'
+If it is a float, print 'Float' and so on.
+
+
+Q4: keep on taking the user's input until the user enters '0'
+
+
+Q5: Create a guessing game where the computer generates a random number. The user then tries to guess that
+number. If the guessed number is less than the actual number, the user is prompted to guess a higher
+value. If the user guesses higher, he/she is prompted to enter a lower value.

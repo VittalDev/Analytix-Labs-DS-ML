@@ -1,0 +1,33 @@
+
+intro to the course
+
+the fundamentals of computing
+how modern day computing works and the main parts of a computer
+
+what is a programming language
+
+python as a programming language
+
+core properties of python
+	dynamically typed language
+	multipurpose programming language
+	open source and free
+	interpreted programming language ( *sometimes compiled as well )	
+
+	modular programming language
+
+
+Installations required for python
+
+	Base python
+	Data Science packages (10,000+)
+	IDEs
+
+	Anaconda ( bundled software product that installs everything at once )
+	
+		Jupyter notebooks
+
+
+
+Started with python
+	Variables
